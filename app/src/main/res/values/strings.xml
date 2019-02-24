@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tragaperras</string>
+    <string name="gameover">GameOver</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="bancarota">Banca Rota.....</string>
+</resources>
